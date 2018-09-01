@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adrenalinehit/signalr-client/issues"
   },
-  "homepage": "https://github.com/adrenalinehit/signalr-client#readme"
+  "homepage": "https://github.com/adrenalinehit/signalr-client#readme",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.3"
+  }
 }
